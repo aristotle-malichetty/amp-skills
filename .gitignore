@@ -11,3 +11,17 @@ node_modules/
 
 # Lock files
 package-lock.json
+
+# Private skills (not for public repo)
+brand-voice/
+content-atomizer/
+direct-response-copy/
+email-sequences/
+keyword-research/
+lead-magnet/
+newsletter/
+orchestrator/
+positioning-angles/
+seo-content/
+web-artifacts-builder/
+xlsx/
