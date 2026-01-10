@@ -43,7 +43,7 @@ cat scripts/build-feature-loop/parent-task-id.txt
 
 If this file doesn't exist, ask the user which parent task to work on.
 
-**Check if this is a new feature:** Compare the parent task ID to the one in progress.txt header. If they differ (or progress.txt doesn't exist), this is a NEW feature - reset progress.txt:
+**Check if this is a new feature:** Compare the parent task ID to the one in `scripts/build-feature-loop/progress.txt` header. If they differ (or progress.txt doesn't exist), this is a NEW feature - reset progress.txt:
 
 ```markdown
 # Build Progress Log
